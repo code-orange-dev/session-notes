@@ -2,6 +2,8 @@
 
 Short recaps of every [Code Orange Dev School](https://codeorange.dev) session: one or two highlights, the key takeaways, and every resource shared on the call.
 
+Also on the website: **https://codeorange.dev/session-notes**
+
 Free to read, share and reuse (CC0).
 
 ## 2026

@@ -3,18 +3,32 @@
 **Date:** Wednesday 14 October 2026, 11:00 UTC
 **Where:** Code Orange Dev School Discord, Bitcoiner Lounge
 **Host:** Razor
-**Series:** [Sovereign Bitcoiner Workshops](https://codeorange.dev) (every 2nd Wednesday of the month)
+**Series:** Sovereign Bitcoiner Workshops (every 2nd Wednesday of the month)
+**Read on the website:** https://codeorange.dev/session-notes/2026-10-14-sovereign-bitcoiner-workshop
+
+![Why privacy matters: Sovereign Bitcoiner Workshop, hosted by Razor](img/2026-10-14-sovereign-bitcoiner-workshop.jpg)
+
+> **TL;DR**
+> - "Nothing to hide" is the wrong question. Privacy is about power.
+> - Bitcoin is public on purpose. Privacy is added in layers on top.
+> - Custodial wallets can hand your payment history to anyone who asks.
+> - Pick your defences with a simple threat model, not fear.
 
 ## Highlights
 
 - **A $100 carpet that leaked 1 BTC.** A community member bought a carpet for bitcoin on Facebook Marketplace and looked the on-chain payment up on a block explorer. It showed the seller's wallet held a full bitcoin. Now a stranger knew what the seller looked like, where they lived and how much they had. That is what a privacy leak looks like in real life.
 - **Live Lightning privacy test.** We passed $6 of sats from Blink to Primal to Wallet of Satoshi and on to another Wallet of Satoshi user, then traced what each company could hand over if a government came knocking: node IDs, emails, maybe IP addresses. Custodial Lightning is fairly private from other people, but not from the custodians themselves.
 
+![Live Lightning privacy test: sats passed Blink to Primal to Wallet of Satoshi to Wallet of Satoshi](img/lightning-test.svg)
+
 ## Key takeaways
 
 1. **"Nothing to hide" is the wrong question.** Privacy is about the balance of power between you and whoever holds your data. Data outlives the laws that protect it (Executive Order 6102 made owning gold illegal in the US overnight).
 2. **Bitcoin's base layer is transparent on purpose.** Anyone can verify the 21 million supply. Privacy is added on top: good on-chain habits (coin control, PayJoin, Silent Payments), Lightning, and ecash mints like Fedimint.
-3. **Be productively paranoid, but practical.** Ask who you are protecting against, how likely it is, how bad failure would be, and how much effort you are willing to spend. Self-custody wallets, your own node behind Tor and ecash all raise the bar.
+
+   ![Bitcoin privacy comes in layers: on-chain, Lightning, ecash](img/privacy-layers.svg)
+
+3. **Be productively paranoid, but practical.** Answer four questions: **Who** am I protecting against? **How likely** is it? **How bad** is failure? **How much effort** will I spend? Self-custody wallets, your own node behind Tor and ecash all raise the bar.
 
 ## Resources shared
 

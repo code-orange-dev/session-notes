@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title>Bitcoin privacy in layers: on-chain, Lightning and ecash</title>
+  <defs><linearGradient id="g" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#4A4A4A"/><stop offset="1" stop-color="#F7931A"/></linearGradient></defs>
+  <rect width="1200" height="560" rx="24" fill="#0F0F0F"/>
+  <text x="48" y="64" fill="#F7931A" font-size="15" font-weight="700" letter-spacing="2.4">THE BIG PICTURE</text>
+  <text x="48" y="100" fill="#F5F5F5" font-size="30" font-weight="600">Bitcoin privacy comes in layers</text>
+  <rect x="58" y="140" width="8" height="380" rx="4" fill="url(#g)"/>
+  <text x="84" y="152" fill="#F7931A" font-size="13" font-weight="700" letter-spacing="1.2">MORE PRIVATE</text>
+  <text x="84" y="520" fill="#858585" font-size="13" font-weight="700" letter-spacing="1.2">MORE VISIBLE</text>
+  <g>
+    <rect x="220" y="140" width="932" height="112" rx="16" fill="rgba(247,147,26,.14)" stroke="#F7931A" stroke-opacity=".6"/>
+    <text x="248" y="180" fill="#F5F5F5" font-size="22" font-weight="700">Ecash mints</text>
+    <text x="248" y="210" fill="#B8B8B8" font-size="16">Hide in the crowd: the mint can't tell which member paid which.</text>
+    <text x="248" y="236" fill="#F7931A" font-size="15" font-weight="600">Fedimint · Fedi</text>
+  </g>
+  <g>
+    <rect x="220" y="274" width="932" height="112" rx="16" fill="#1A1A1A" stroke="#444"/>
+    <text x="248" y="314" fill="#F5F5F5" font-size="22" font-weight="700">Lightning</text>
+    <text x="248" y="344" fill="#B8B8B8" font-size="16">Off-chain and hard to trace for outsiders, but invoices reveal your node.</text>
+    <text x="248" y="370" fill="#F7931A" font-size="15" font-weight="600">Own node · Tor · LN Proxy · self-custodial wallets</text>
+  </g>
+  <g>
+    <rect x="220" y="408" width="932" height="112" rx="16" fill="#141414" stroke="#333"/>
+    <text x="248" y="448" fill="#F5F5F5" font-size="22" font-weight="700">On-chain</text>
+    <text x="248" y="478" fill="#B8B8B8" font-size="16">Public on purpose, so anyone can verify the 21 million supply.</text>
+    <text x="248" y="504" fill="#F7931A" font-size="15" font-weight="600">Coin control · PayJoin · Silent Payments · CoinJoin</text>
+  </g>
+</svg>

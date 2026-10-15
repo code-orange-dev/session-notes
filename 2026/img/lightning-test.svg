@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title>The live Lightning privacy test: sats passed between four custodial wallets, and what each company can see</title>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 10 5 0 10z" fill="#F7931A"/></marker>
+  </defs>
+  <rect width="1200" height="520" rx="24" fill="#0F0F0F"/>
+  <text x="48" y="64" fill="#F7931A" font-size="15" font-weight="700" letter-spacing="2.4">LIVE DEMO</text>
+  <text x="48" y="100" fill="#F5F5F5" font-size="30" font-weight="600">We passed sats through 4 Lightning wallets</text>
+  <g font-size="22" font-weight="600" fill="#F5F5F5" text-anchor="middle">
+    <rect x="48" y="150" width="220" height="96" rx="16" fill="#1A1A1A" stroke="#333"/><text x="158" y="194">Blink</text>
+    <rect x="342" y="150" width="220" height="96" rx="16" fill="#1A1A1A" stroke="#333"/><text x="452" y="194">Primal</text>
+    <rect x="636" y="150" width="220" height="96" rx="16" fill="#1A1A1A" stroke="#333"/><text x="746" y="194">Wallet of Satoshi</text>
+    <rect x="932" y="150" width="220" height="96" rx="16" fill="#1A1A1A" stroke="#333"/><text x="1042" y="194">Wallet of Satoshi</text>
+  </g>
+  <g font-size="13" fill="#858585" text-anchor="middle" font-weight="600" letter-spacing="1.2">
+    <text x="158" y="222">CUSTODIAL</text><text x="452" y="222">CUSTODIAL</text><text x="746" y="222">CUSTODIAL</text><text x="1042" y="222">CUSTODIAL</text>
+  </g>
+  <g stroke="#F7931A" stroke-width="3" marker-end="url(#ar)">
+    <line x1="272" y1="198" x2="336" y2="198"/><line x1="566" y1="198" x2="630" y2="198"/><line x1="860" y1="198" x2="926" y2="198"/>
+  </g>
+  <g fill="#F7931A" font-size="18" font-weight="700" text-anchor="middle">
+    <text x="303" y="184">$6</text><text x="597" y="184">$4</text><text x="892" y="184">$2</text>
+  </g>
+  <g font-size="16" fill="#B8B8B8">
+    <text x="48" y="300" fill="#F5F5F5" font-weight="600" font-size="18">If a government asks, each company can hand over:</text>
+    <text x="48" y="336">• the account behind each payment (email, phone)</text>
+    <text x="48" y="364">• amounts, times and the node it went to next</text>
+    <text x="48" y="392">• possibly your IP address</text>
+    <text x="620" y="336">One request per company, and the whole path</text>
+    <text x="620" y="364">can be rebuilt, hop by hop.</text>
+  </g>
+  <rect x="48" y="424" width="1104" height="64" rx="14" fill="rgba(247,147,26,.12)" stroke="#F7931A" stroke-opacity=".5"/>
+  <text x="72" y="463" fill="#F5F5F5" font-size="18"><tspan font-weight="700" fill="#F7931A">Do better: </tspan>a self-custodial wallet like Phoenix, your own node behind Tor, and no email sign-up.</text>
+</svg>
