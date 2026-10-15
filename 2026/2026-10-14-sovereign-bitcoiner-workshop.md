@@ -6,7 +6,35 @@
 **Series:** Sovereign Bitcoiner Workshops (every 2nd Wednesday of the month)
 **Read on the website:** https://codeorange.dev/session-notes/2026-10-14-sovereign-bitcoiner-workshop
 
-![Why privacy matters: Sovereign Bitcoiner Workshop, hosted by Razor](img/2026-10-14-sovereign-bitcoiner-workshop.jpg)
+[![Watch the recording: Why privacy matters, Sovereign Bitcoiner Workshop](img/2026-10-14-sovereign-bitcoiner-workshop.jpg)](https://www.youtube.com/watch?v=NENhVbqtGTs)
+
+▶ **[Watch the full recording on YouTube](https://www.youtube.com/watch?v=NENhVbqtGTs)** (1h 18m)
+
+<details>
+<summary><b>Jump to a chapter</b></summary>
+
+- [00:00](https://www.youtube.com/watch?v=NENhVbqtGTs&t=0s) Why read "The Eternal Value of Privacy"
+- [04:21](https://www.youtube.com/watch?v=NENhVbqtGTs&t=261s) The $100 carpet that leaked 1 BTC
+- [06:51](https://www.youtube.com/watch?v=NENhVbqtGTs&t=411s) Is privacy a basic human right?
+- [08:03](https://www.youtube.com/watch?v=NENhVbqtGTs&t=483s) 1984 vs Kafka's The Trial
+- [12:04](https://www.youtube.com/watch?v=NENhVbqtGTs&t=724s) Did Satoshi make Bitcoin transparent on purpose?
+- [18:33](https://www.youtube.com/watch?v=NENhVbqtGTs&t=1113s) Why the base layer must be auditable
+- [20:59](https://www.youtube.com/watch?v=NENhVbqtGTs&t=1259s) The cypherpunk manifestos
+- [24:04](https://www.youtube.com/watch?v=NENhVbqtGTs&t=1444s) What is privacy? Three definitions
+- [28:32](https://www.youtube.com/watch?v=NENhVbqtGTs&t=1712s) Mass data collection and laws that change
+- [31:48](https://www.youtube.com/watch?v=NENhVbqtGTs&t=1908s) Fun fact: 2016 blocks is 6102 backwards
+- [33:58](https://www.youtube.com/watch?v=NENhVbqtGTs&t=2038s) Private payments on a public chain
+- [37:15](https://www.youtube.com/watch?v=NENhVbqtGTs&t=2235s) Is Lightning more secure? Liveness and watchtowers
+- [41:27](https://www.youtube.com/watch?v=NENhVbqtGTs&t=2487s) Invoices reveal your node: Tor, ecash, guard nodes
+- [46:18](https://www.youtube.com/watch?v=NENhVbqtGTs&t=2778s) Live demo: tracing a Lightning payment
+- [48:43](https://www.youtube.com/watch?v=NENhVbqtGTs&t=2923s) LN Proxy and 1ML
+- [52:05](https://www.youtube.com/watch?v=NENhVbqtGTs&t=3125s) Hardware wallet or dedicated laptop?
+- [57:56](https://www.youtube.com/watch?v=NENhVbqtGTs&t=3476s) The Intel Management Engine
+- [1:01:49](https://www.youtube.com/watch?v=NENhVbqtGTs&t=3709s) Who are we protecting our bitcoin from?
+- [1:10:13](https://www.youtube.com/watch?v=NENhVbqtGTs&t=4213s) How much trouble are you willing to go through?
+- [1:14:16](https://www.youtube.com/watch?v=NENhVbqtGTs&t=4456s) Private messengers: White Noise and Keychat
+
+</details>
 
 > **TL;DR**
 > - "Nothing to hide" is the wrong question. Privacy is about power.
@@ -24,6 +52,9 @@
 ## Key takeaways
 
 1. **"Nothing to hide" is the wrong question.** Privacy is about the balance of power between you and whoever holds your data. Data outlives the laws that protect it (Executive Order 6102 made owning gold illegal in the US overnight).
+
+   > "Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say." Edward Snowden, quoted on the call
+
 2. **Bitcoin's base layer is transparent on purpose.** Anyone can verify the 21 million supply. Privacy is added on top: good on-chain habits (coin control, PayJoin, Silent Payments), Lightning, and ecash mints like Fedimint.
 
    ![Bitcoin privacy comes in layers: on-chain, Lightning, ecash](img/privacy-layers.svg)
@@ -53,7 +84,7 @@
 
 **Code Orange**
 - [Privacy Developer Track](https://codeorange.dev/privacy-track): every 1st and 3rd Tuesday, covering PayJoin, Silent Payments, Lightning and ecash
-- Next up: Self-Custody and Multisig workshop with Andy, Friday 16 October
+- Next session: Self-Custody and Multisig workshop with Andy, Friday 16 October ([calendar](https://codeorange.dev/calendar))
 - Ideas for future sessions: a White Noise vs Keychat comparison, and a Fedimint deep dive
 
 ---
