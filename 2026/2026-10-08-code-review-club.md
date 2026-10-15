@@ -6,7 +6,36 @@
 **Series:** Code Review Club (first session; monthly)
 **Read on the website:** https://codeorange.dev/session-notes/2026-10-08-code-review-club
 
-![Your first code review: Code Review Club, hosted by Alex and Razor](img/2026-10-08-code-review-club.jpg)
+[![Watch the recording: Your first code review, Code Review Club](img/2026-10-08-code-review-club.jpg)](https://www.youtube.com/watch?v=wQPdlsrxidY)
+
+▶ **[Watch the full recording on YouTube](https://www.youtube.com/watch?v=wQPdlsrxidY)** (1h 26m)
+
+<details>
+<summary><b>Jump to a chapter</b></summary>
+
+- [00:00](https://www.youtube.com/watch?v=wQPdlsrxidY&t=0s) Welcome: the Code Orange pipeline
+- [03:31](https://www.youtube.com/watch?v=wQPdlsrxidY&t=211s) Part 1: a Nostr identity with nihao
+- [09:35](https://www.youtube.com/watch?v=wQPdlsrxidY&t=575s) Why Nostr? No sign-up, no permission
+- [11:45](https://www.youtube.com/watch?v=wQPdlsrxidY&t=705s) Blossom and owning your own data
+- [14:54](https://www.youtube.com/watch?v=wQPdlsrxidY&t=894s) Mastodon vs Nostr vs X
+- [20:43](https://www.youtube.com/watch?v=wQPdlsrxidY&t=1243s) npub, nsec and relays
+- [24:04](https://www.youtube.com/watch?v=wQPdlsrxidY&t=1444s) NIPs and event kinds
+- [33:26](https://www.youtube.com/watch?v=wQPdlsrxidY&t=2006s) Ecash mints: get paid to your npub
+- [39:20](https://www.youtube.com/watch?v=wQPdlsrxidY&t=2360s) Logging in safely, and nak
+- [42:00](https://www.youtube.com/watch?v=wQPdlsrxidY&t=2520s) Should we run a Nostr workshop?
+- [45:01](https://www.youtube.com/watch?v=wQPdlsrxidY&t=2701s) Part 2: Bitcoin's P2P network
+- [48:47](https://www.youtube.com/watch?v=wQPdlsrxidY&t=2927s) Peer Observer and LinkingLion
+- [51:16](https://www.youtube.com/watch?v=wQPdlsrxidY&t=3076s) Reviewing a PR: get context first
+- [54:31](https://www.youtube.com/watch?v=wQPdlsrxidY&t=3271s) Checking out the PR branch
+- [56:44](https://www.youtube.com/watch?v=wQPdlsrxidY&t=3404s) Asking Claude how to build it
+- [1:01:17](https://www.youtube.com/watch?v=wQPdlsrxidY&t=3677s) Running the tests as root, and NATS
+- [1:06:05](https://www.youtube.com/watch?v=wQPdlsrxidY&t=3965s) LLMs in open source: the debate
+- [1:13:35](https://www.youtube.com/watch?v=wQPdlsrxidY&t=4415s) Break the test on purpose
+- [1:17:23](https://www.youtube.com/watch?v=wQPdlsrxidY&t=4643s) Finding the entry point
+- [1:21:24](https://www.youtube.com/watch?v=wQPdlsrxidY&t=4884s) Start by reviewing, not coding
+- [1:23:17](https://www.youtube.com/watch?v=wQPdlsrxidY&t=4997s) Issue first, or PR first?
+
+</details>
 
 > **TL;DR**
 > - Nostr is to X what Bitcoin is to a bank: you hold the key, nobody can ban your identity.
