@@ -1,0 +1,26 @@
+<svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" font-family="Inter, Helvetica, Arial, sans-serif"><rect width="640" height="300" rx="16" fill="#0f0f0f"/>
+          <defs><radialGradient id="glow"><stop offset="0" stop-color="#F7931A" stop-opacity=".45"/><stop offset="1" stop-color="#F7931A" stop-opacity="0"/></radialGradient></defs>
+          <g stroke="#F7931A" stroke-width="2" fill="none" opacity=".8">
+            <path d="M118 150 C 200 150, 200 50, 250 50"/><path d="M118 150 C 200 150, 200 116, 250 116"/><path d="M118 150 C 200 150, 200 184, 250 184"/><path d="M118 150 C 200 150, 200 250, 250 250"/>
+          </g>
+          <g stroke="#ffffff" stroke-opacity=".18" stroke-width="1.5" fill="none">
+            <path d="M400 50 L480 50"/><path d="M400 50 L480 116"/><path d="M400 116 L480 116"/><path d="M400 116 L480 184"/><path d="M400 184 L480 184"/><path d="M400 184 L480 250"/><path d="M400 250 L480 250"/><path d="M400 250 L480 50"/>
+          </g>
+          <circle cx="78" cy="150" r="70" fill="url(#glow)"/>
+          <circle cx="78" cy="150" r="40" fill="#F7931A"/>
+          <text x="78" y="146" text-anchor="middle" font-size="15" font-weight="700" fill="#0A0A0A">You</text>
+          <text x="78" y="164" text-anchor="middle" font-size="11" font-weight="600" fill="#0A0A0A">npub + nsec</text>
+          <g font-size="13" fill="#e8e8e8">
+            <rect x="250" y="32" width="150" height="36" rx="10" fill="#161616" stroke="#ffffff" stroke-opacity=".14"/><text x="325" y="55" text-anchor="middle">relay.damus.io</text>
+            <rect x="250" y="98" width="150" height="36" rx="10" fill="#161616" stroke="#ffffff" stroke-opacity=".14"/><text x="325" y="121" text-anchor="middle">relay.primal.net</text>
+            <rect x="250" y="166" width="150" height="36" rx="10" fill="#161616" stroke="#ffffff" stroke-opacity=".14"/><text x="325" y="189" text-anchor="middle">nos.lol</text>
+            <rect x="250" y="232" width="150" height="36" rx="10" fill="#161616" stroke="#F7931A" stroke-opacity=".6" stroke-dasharray="4 4"/><text x="325" y="255" text-anchor="middle" fill="#F7931A">your own relay</text>
+          </g>
+          <g font-size="13" font-weight="600" fill="#e8e8e8">
+            <rect x="480" y="32" width="120" height="36" rx="18" fill="#222"/><text x="540" y="55" text-anchor="middle">Jumble</text>
+            <rect x="480" y="98" width="120" height="36" rx="18" fill="#222"/><text x="540" y="121" text-anchor="middle">Primal</text>
+            <rect x="480" y="166" width="120" height="36" rx="18" fill="#222"/><text x="540" y="189" text-anchor="middle">Damus</text>
+            <rect x="480" y="232" width="120" height="36" rx="18" fill="#222"/><text x="540" y="255" text-anchor="middle">Amethyst</text>
+          </g>
+          <g font-size="11" font-weight="700" fill="#8A8A8A" letter-spacing="1.5"><text x="78" y="22" text-anchor="middle">SIGN</text><text x="325" y="14" text-anchor="middle">PUBLISH</text><text x="540" y="14" text-anchor="middle">READ ANYWHERE</text></g>
+        </svg>

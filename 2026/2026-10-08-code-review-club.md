@@ -46,7 +46,11 @@
 ## Highlights
 
 - **A Nostr identity in one command.** Alex installed Gigi's *nihao* and created a "Code Orange" account live. One command made the key pair, a profile, a relay list, a Lightning address and an ecash wallet. No company, no sign-up, no permission.
+
+  ![One key, many relays, any app: you sign once, publish to several relays, and read from any Nostr app](img/2026-10-08-nostr-relays.svg)
 - **Reviewing a real Bitcoin PR, live.** Razor picked a pull request on Peer Observer, a tool that watches the Bitcoin P2P network for attacks, and reviewed it in front of everyone. He hit the walls a beginner hits (tests that need root, a missing NATS binary) and showed how to get past each one, partly by asking Claude.
+
+  ![Peer Observer's honeypot node watching the Bitcoin P2P network; LinkingLion nodes connect and only listen](img/2026-10-08-peer-observer.svg)
 
 **How Razor reviews a pull request:** get context (readme, PR, issue) → check out the branch and build it → run the tests → make them fail on purpose → find the entry point. Stuck? Paste the PR link into Claude and ask how to build and test it, then check what it says.
 
