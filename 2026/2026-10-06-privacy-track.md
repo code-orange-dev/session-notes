@@ -6,7 +6,9 @@
 **Series:** Privacy Track (every 1st and 3rd Tuesday; first session)
 **Read on the website:** https://codeorange.dev/session-notes/2026-10-06-privacy-track
 
-![How PayJoin works: Privacy Track, hosted by Razor](img/2026-10-06-privacy-track.jpg)
+[![Watch the recording: How PayJoin works, Privacy Track](img/2026-10-06-privacy-track.jpg)](https://www.youtube.com/watch?v=lsgyE7OxpsM)
+
+▶ **[Watch the full recording on YouTube](https://www.youtube.com/watch?v=lsgyE7OxpsM)**
 
 > **TL;DR**
 > - Privacy keeps Bitcoin free, censorship-resistant and fungible. Without private payments it can be captured like gold.
