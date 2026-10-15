@@ -11,3 +11,4 @@ Free to read, share and reuse (CC0).
 | Date | Session | Topic |
 |---|---|---|
 | 14 Oct | [Sovereign Bitcoiner Workshop](2026/2026-10-14-sovereign-bitcoiner-workshop.md) | Why privacy matters |
+| 8 Oct | [Code Review Club](2026/2026-10-08-code-review-club.md) | Your first code review: Nostr and Peer Observer |
