@@ -10,6 +10,7 @@ Free to read, share and reuse (CC0).
 
 | Date | Session | Topic |
 |---|---|---|
+| 16 Oct | [Self-Custody Workshop](2026/2026-10-16-self-custody-workshop.md) | Build a multi-vendor multisig |
 | 14 Oct | [Sovereign Bitcoiner Workshop](2026/2026-10-14-sovereign-bitcoiner-workshop.md) | Why privacy matters |
 | 8 Oct | [Code Review Club](2026/2026-10-08-code-review-club.md) | Your first code review: Nostr and Peer Observer |
 | 6 Oct | [Privacy Track](2026/2026-10-06-privacy-track.md) | How PayJoin works |
