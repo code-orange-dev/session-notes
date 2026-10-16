@@ -6,7 +6,9 @@
 **Series:** Self-Custody Workshops (every 3rd Friday of the month)
 **Read on the website:** https://codeorange.dev/session-notes/2026-10-16-self-custody-workshop
 
-![Build a multi-vendor multisig, Self-Custody Workshop](img/2026-10-16-self-custody-workshop.jpg)
+[![Watch the recording: Build a multi-vendor multisig, Self-Custody Workshop](img/2026-10-16-self-custody-workshop.jpg)](https://www.youtube.com/watch?v=mKleeG4x-Ug)
+
+▶ **[Watch the full recording on YouTube](https://www.youtube.com/watch?v=mKleeG4x-Ug)**
 
 > **TL;DR**
 > - Multisig from different vendors means one bad device can't take your coins.
