@@ -5,7 +5,9 @@
 **Host:** Razor
 **Read on the website:** https://codeorange.dev/session-notes/2026-10-20-privacy-track
 
-![PayJoin v2, tested live](img/2026-10-20-privacy-track.jpg)
+[![Watch the recording: PayJoin v2, tested live](img/2026-10-20-privacy-track.jpg)](https://www.youtube.com/watch?v=g5TAfT07ghE)
+
+**Recording:** https://youtu.be/g5TAfT07ghE
 
 > **TL;DR**
 > - PayJoin v2 needs no server of your own: a mailbox directory holds encrypted messages and a relay hides your IP address.
