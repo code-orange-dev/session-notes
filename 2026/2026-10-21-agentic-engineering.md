@@ -5,9 +5,9 @@
 **Host:** Andy
 **Read on the website:** https://codeorange.dev/session-notes/2026-10-21-agentic-engineering
 
-![Agentic engineering and vibe coding](img/2026-10-21-agentic-engineering.jpg)
+[![Watch the recording: Agentic engineering and vibe coding](img/2026-10-21-agentic-engineering.jpg)](https://www.youtube.com/watch?v=dQVF4HuU-_I)
 
-**Recording:** coming soon on YouTube.
+**Recording:** https://youtu.be/dQVF4HuU-_I
 
 > **TL;DR**
 > - You don't need to code to build: describe what you want, speak instead of typing, and let the agent do the work.
@@ -36,22 +36,22 @@
 <details>
 <summary>Chapters (times from the transcript, may be slightly off)</summary>
 
-- 0:00 Warm-up: Omarchy on an Umbrel Home
-- 2:03 Selling Wi-Fi and AI for ecash with TollGate
-- 5:30 Intros: how everyone uses AI
-- 13:00 A business website rebuilt in two days
-- 16:15 BTCPay tips on the page, BTCPay vs Alby Hub
-- 20:10 Andy: a self-custody simulator built with Bolt
-- 23:30 Bolt's agent modes, history and plan mode
-- 30:00 Simulator missions: recover a wallet, pair software
-- 41:10 Feedback: seed warnings and translations
-- 44:00 Mempool visualizers: Sea, Bee and Tee
-- 52:00 Lightning tips that rain on every screen
-- 55:00 Matrix and Tetris views of the mempool
-- 60:00 An issue finder for Bitcoin open source
-- 68:10 An orchestrator agent across harnesses
-- 72:50 Darkbloom, Buzz and Herdr
-- 84:00 Voice tools, window managers and wrap-up
+- [0:00](https://www.youtube.com/watch?v=dQVF4HuU-_I&t=0s) Warm-up: Omarchy on an Umbrel Home
+- [2:03](https://www.youtube.com/watch?v=dQVF4HuU-_I&t=123s) Selling Wi-Fi and AI for ecash with TollGate
+- [5:30](https://www.youtube.com/watch?v=dQVF4HuU-_I&t=330s) Intros: how everyone uses AI
+- [13:00](https://www.youtube.com/watch?v=dQVF4HuU-_I&t=780s) A business website rebuilt in two days
+- [16:15](https://www.youtube.com/watch?v=dQVF4HuU-_I&t=975s) BTCPay tips on the page, BTCPay vs Alby Hub
+- [20:10](https://www.youtube.com/watch?v=dQVF4HuU-_I&t=1210s) Andy: a self-custody simulator built with Bolt
+- [23:30](https://www.youtube.com/watch?v=dQVF4HuU-_I&t=1410s) Bolt's agent modes, history and plan mode
+- [30:00](https://www.youtube.com/watch?v=dQVF4HuU-_I&t=1800s) Simulator missions: recover a wallet, pair software
+- [41:10](https://www.youtube.com/watch?v=dQVF4HuU-_I&t=2470s) Feedback: seed warnings and translations
+- [44:00](https://www.youtube.com/watch?v=dQVF4HuU-_I&t=2640s) Mempool visualizers: Sea, Bee and Tee
+- [52:00](https://www.youtube.com/watch?v=dQVF4HuU-_I&t=3120s) Lightning tips that rain on every screen
+- [55:00](https://www.youtube.com/watch?v=dQVF4HuU-_I&t=3300s) Matrix and Tetris views of the mempool
+- [60:00](https://www.youtube.com/watch?v=dQVF4HuU-_I&t=3600s) An issue finder for Bitcoin open source
+- [68:10](https://www.youtube.com/watch?v=dQVF4HuU-_I&t=4090s) An orchestrator agent across harnesses
+- [72:50](https://www.youtube.com/watch?v=dQVF4HuU-_I&t=4370s) Darkbloom, Buzz and Herdr
+- [84:00](https://www.youtube.com/watch?v=dQVF4HuU-_I&t=5040s) Voice tools, window managers and wrap-up
 
 </details>
 
