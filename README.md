@@ -10,6 +10,7 @@ Free to read, share and reuse (CC0).
 
 | Date | Session | Topic |
 |---|---|---|
+| 28 Oct | [Bitcoin Reading Club](2026/2026-10-28-bitcoin-reading-club.md) | The whitepaper abstract, line by line |
 | 21 Oct | [Agentic Engineering & Coding Workshop](2026/2026-10-21-agentic-engineering.md) | Agentic engineering and vibe coding |
 | 20 Oct | [Privacy Track](2026/2026-10-20-privacy-track.md) | PayJoin v2, tested live |
 | 16 Oct | [Self-Custody Workshop](2026/2026-10-16-self-custody-workshop.md) | Build a multi-vendor multisig |
