@@ -40,6 +40,29 @@
 
 </details>
 
+## Test yourself
+
+Play the interactive version (6 levels, XP and a rank) on the website: https://codeorange.dev/session-notes/2026-10-28-bitcoin-reading-club
+
+1. Why is "without going through a financial institution" the key line?
+2. "Cash" here is the opposite of what?
+3. Signatures prove a coin is yours. What problem is left?
+4. Why not just keep a plain public list of transactions?
+5. What would it take to rewrite Bitcoin's history?
+6. Why does it matter that nodes can leave and rejoin at will?
+
+<details>
+<summary>Answers</summary>
+
+1. No middleman means nobody to shut it down.
+2. Credit: once paid, cash can't be reversed (a bearer asset).
+3. Double spending: you could sign the same coin over to many people.
+4. Anyone could quietly edit a list. Changing the chain means redoing the proof of work.
+5. More than half of all the hash power (a 51% attack).
+6. No central point to attack. Every node checks every rule.
+
+</details>
+
 ## Highlights
 
 - **One sentence that started it all.** Alex went through the abstract one sentence at a time. The first line got the most time: *"A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution."* It is why Bitcoin is so hard to ban: as long as two people want to trade, there is no middleman to shut down.
