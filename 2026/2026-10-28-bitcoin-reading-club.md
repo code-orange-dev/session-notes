@@ -6,7 +6,9 @@
 **Series:** Bitcoin Reading Club (every 4th Wednesday of the month)
 **Read on the website:** https://codeorange.dev/session-notes/2026-10-28-bitcoin-reading-club
 
-![Bitcoin Reading Club: the whitepaper abstract, line by line](img/2026-10-28-bitcoin-reading-club.jpg)
+[![Watch the recording: Bitcoin Reading Club, the whitepaper abstract](img/2026-10-28-bitcoin-reading-club.jpg)](https://www.youtube.com/watch?v=CWejngosDew)
+
+▶ **[Watch the full recording on YouTube](https://www.youtube.com/watch?v=CWejngosDew)**
 
 > **TL;DR**
 > - The key line: peer-to-peer cash, without going through a financial institution.
@@ -17,26 +19,26 @@
 <details>
 <summary>Chapters (times taken from the transcript, may be slightly off)</summary>
 
-- 00:00 Intro: reading the whitepaper together
-- 01:47 The first line: peer-to-peer, no financial institution
-- 04:14 What did Satoshi mean by "electronic cash"?
-- 07:11 Bitcoin as the ultimate bearer asset
-- 13:27 Digital signatures and the double spending problem
-- 16:03 Peer-to-peer network: node runners are the police
-- 17:08 Timestamps, hashing and the chain of proof of work
-- 19:12 The airplane analogy: how all the parts fit together
-- 22:00 Should you spend your Bitcoin? Spend and replace
-- 30:00 The longest chain and the 51% attack
-- 36:10 CPUs, GPUs and ASICs: how mining changed
-- 42:57 Why run your own node?
-- 45:27 "Minimal structure" and best-effort broadcasting
-- 52:34 Discussion: the paper's core proposal
-- 56:35 Proof of work, energy and game theory
-- 60:53 Why signatures are only part of the solution
-- 68:27 Why the largest pool of CPU power matters
-- 71:11 Nodes leave and rejoin at will
-- 73:34 Why a timestamped chain and not a plain list?
-- 76:16 Wrap-up and what's next
+- [00:00](https://www.youtube.com/watch?v=CWejngosDew&t=0s) Intro: reading the whitepaper together
+- [01:47](https://www.youtube.com/watch?v=CWejngosDew&t=107s) The first line: peer-to-peer, no financial institution
+- [04:14](https://www.youtube.com/watch?v=CWejngosDew&t=254s) What did Satoshi mean by "electronic cash"?
+- [07:11](https://www.youtube.com/watch?v=CWejngosDew&t=431s) Bitcoin as the ultimate bearer asset
+- [13:27](https://www.youtube.com/watch?v=CWejngosDew&t=807s) Digital signatures and the double spending problem
+- [16:03](https://www.youtube.com/watch?v=CWejngosDew&t=963s) Peer-to-peer network: node runners are the police
+- [17:08](https://www.youtube.com/watch?v=CWejngosDew&t=1028s) Timestamps, hashing and the chain of proof of work
+- [19:12](https://www.youtube.com/watch?v=CWejngosDew&t=1152s) The airplane analogy: how all the parts fit together
+- [22:00](https://www.youtube.com/watch?v=CWejngosDew&t=1320s) Should you spend your Bitcoin? Spend and replace
+- [30:00](https://www.youtube.com/watch?v=CWejngosDew&t=1800s) The longest chain and the 51% attack
+- [36:10](https://www.youtube.com/watch?v=CWejngosDew&t=2170s) CPUs, GPUs and ASICs: how mining changed
+- [42:57](https://www.youtube.com/watch?v=CWejngosDew&t=2577s) Why run your own node?
+- [45:27](https://www.youtube.com/watch?v=CWejngosDew&t=2727s) "Minimal structure" and best-effort broadcasting
+- [52:34](https://www.youtube.com/watch?v=CWejngosDew&t=3154s) Discussion: the paper's core proposal
+- [56:35](https://www.youtube.com/watch?v=CWejngosDew&t=3395s) Proof of work, energy and game theory
+- [60:53](https://www.youtube.com/watch?v=CWejngosDew&t=3653s) Why signatures are only part of the solution
+- [68:27](https://www.youtube.com/watch?v=CWejngosDew&t=4107s) Why the largest pool of CPU power matters
+- [71:11](https://www.youtube.com/watch?v=CWejngosDew&t=4271s) Nodes leave and rejoin at will
+- [73:34](https://www.youtube.com/watch?v=CWejngosDew&t=4414s) Why a timestamped chain and not a plain list?
+- [76:16](https://www.youtube.com/watch?v=CWejngosDew&t=4576s) Wrap-up and what's next
 
 </details>
 
