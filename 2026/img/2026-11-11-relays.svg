@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 250" font-family="Inter,Helvetica,Arial,sans-serif">
+<rect width="760" height="250" rx="16" fill="#0A0A0A"/>
+<text x="30" y="36" font-size="12" font-weight="700" fill="#F7931A" letter-spacing="2">NO SINGLE OFF SWITCH</text>
+<g fill="#161616" stroke="#fff" stroke-opacity=".25"><rect x="30" y="100" width="120" height="60" rx="12"/><rect x="610" y="100" width="120" height="60" rx="12"/></g>
+<g text-anchor="middle" font-size="16" font-weight="700" fill="#fff"><text x="90" y="128">Alice</text><text x="670" y="128">Bob</text></g>
+<g text-anchor="middle" font-size="12" fill="#9A9A9A"><text x="90" y="146">sends, goes offline</text><text x="670" y="146">wakes up later</text></g>
+<g><rect x="300" y="56" width="160" height="40" rx="10" fill="#1a0f0f" stroke="#a04a4a"/><rect x="300" y="110" width="160" height="40" rx="10" fill="#1d1408" stroke="#F7931A"/><rect x="300" y="164" width="160" height="40" rx="10" fill="#1d1408" stroke="#F7931A"/></g>
+<g text-anchor="middle" font-size="13" font-weight="700"><text x="380" y="81" fill="#ff8f8f">relay 1: shut down</text><text x="380" y="135" fill="#fff">relay 2: holding it</text><text x="380" y="189" fill="#fff">relay 3: holding it</text></g>
+<g stroke="#F7931A" stroke-width="2" fill="none"><path d="M150 130 L296 130"/><path d="M150 130 L296 184"/><path d="M464 130 L606 130"/><path d="M464 184 L606 132"/></g>
+<path d="M150 130 L296 76" stroke="#a04a4a" stroke-width="2" stroke-dasharray="5 5" fill="none"/>
+<text x="380" y="232" text-anchor="middle" font-size="12" fill="#9A9A9A">White Noise sends each encrypted message to several Nostr relays. Anyone can run one.</text>
+</svg>

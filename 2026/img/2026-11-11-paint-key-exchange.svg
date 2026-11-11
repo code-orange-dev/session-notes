@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" font-family="Inter,Helvetica,Arial,sans-serif">
+<rect width="760" height="330" rx="16" fill="#0A0A0A"/>
+<text x="30" y="36" font-size="12" font-weight="700" fill="#F7931A" letter-spacing="2">KEY EXCHANGE, EXPLAINED WITH PAINT</text>
+<g text-anchor="middle" font-size="15" font-weight="700" fill="#fff"><text x="130" y="72">Alice</text><text x="380" y="72">The open line (spy watching)</text><text x="630" y="72">Bob</text></g>
+<rect x="250" y="84" width="260" height="226" rx="12" fill="none" stroke="#fff" stroke-opacity=".25" stroke-dasharray="5 5"/>
+<g stroke="#fff" stroke-opacity=".6" stroke-width="2">
+<rect x="110" y="96" width="40" height="46" rx="8" fill="#E8472B"/><rect x="360" y="96" width="40" height="46" rx="8" fill="#F7D21A"/><rect x="610" y="96" width="40" height="46" rx="8" fill="#1FB6C9"/>
+<rect x="110" y="172" width="40" height="46" rx="8" fill="#F08D23"/><rect x="335" y="172" width="40" height="46" rx="8" fill="#F08D23"/><rect x="385" y="172" width="40" height="46" rx="8" fill="#8BC472"/><rect x="610" y="172" width="40" height="46" rx="8" fill="#8BC472"/>
+<rect x="110" y="248" width="40" height="46" rx="8" fill="#AA8D5A"/><rect x="610" y="248" width="40" height="46" rx="8" fill="#AA8D5A"/></g>
+<g font-size="12" fill="#9A9A9A"><text x="160" y="124">secret, stays home</text><text x="410" y="124">public colour</text><text x="540" y="116" text-anchor="end"></text><text x="600" y="124" text-anchor="end">secret, stays home</text>
+<text x="160" y="200">public + secret</text><text x="600" y="200" text-anchor="end">public + secret</text><text x="380" y="238" text-anchor="middle">spy sees both mixes, but neither secret</text></g>
+<g font-size="12" font-weight="700" fill="#F7931A"><text x="160" y="276">shared key</text><text x="600" y="276" text-anchor="end">same shared key</text><text x="380" y="276" text-anchor="middle">never crossed the line</text></g>
+</svg>
