@@ -41,6 +41,28 @@ Trezor (USB) + Ledger (USB) + Coldcard Q (microSD)  ->  2-of-3 wallet in Sparrow
 2. **Climb one step at a time:** a mobile wallet with $10 to practise, then one hardware wallet, then a passphrase (a secret extra word on top of your seed), then multisig.
 3. **2-of-4 is possible too.** An extra key protects against a dead device, but means one more place to keep safe. Buy hardware wallets straight from the maker, never a reseller.
 
+## Test yourself
+
+1. **Why spread multisig keys across different hardware wallet brands?**
+   - a) It's cheaper
+   - b) One bad or attacked device can't take your coins
+   - c) Sparrow requires it
+   <details><summary>Answer</summary>b) One bad or attacked device can't take your coins. If one brand has a supply chain attack or exploit, the other keys still protect you.</details>
+
+2. **In a multisig, what is the output descriptor?**
+   - a) The blueprint of the wallet, needed to rebuild it
+   - b) A backup of one seed phrase
+   - c) A setting for transaction fees
+   <details><summary>Answer</summary>a) The blueprint of the wallet, needed to rebuild it. Without it, rebuilding is very hard. Anyone who finds it sees your balance but can't spend, so keep many copies.</details>
+
+3. **Where should you buy a hardware wallet?**
+   - a) The cheapest reseller online
+   - b) A second-hand marketplace
+   - c) Straight from the maker
+   <details><summary>Answer</summary>c) Straight from the maker. Resellers are where supply chain attacks happen.</details>
+
+Play it with a score on the website: https://codeorange.dev/session-notes/2026-10-16-self-custody-workshop
+
 ## Resources shared
 
 **Wallets**

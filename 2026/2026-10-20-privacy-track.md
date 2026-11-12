@@ -41,6 +41,28 @@
 
 </details>
 
+## Test yourself
+
+1. **What lets the receiver be offline in PayJoin v2?**
+   - a) A mailbox (the directory) holds the encrypted PSBT until they pick it up
+   - b) The sender waits on the line
+   - c) Payments go over Lightning
+   <details><summary>Answer</summary>a) A mailbox (the directory) holds the encrypted PSBT until they pick it up. In v1 the receiver had to run an always-online server. v2 replaces it with a mailbox.</details>
+
+2. **Why should the relay and the directory be run by different people?**
+   - a) To split the fees
+   - b) One party running both could link IP addresses again
+   - c) The spec says it's faster
+   <details><summary>Answer</summary>b) One party running both could link IP addresses again. The relay hides your IP from the directory. If one party ran both, that protection is gone.</details>
+
+3. **Why does using PayJoin every time help everyone?**
+   - a) It lowers fees
+   - b) It confirms faster
+   - c) If enough payments are PayJoins, chain analysis can't trust its 'all inputs are one person' guess
+   <details><summary>Answer</summary>c) If enough payments are PayJoins, chain analysis can't trust its 'all inputs are one person' guess. The idea from the call: even 5 to 10% of payments as PayJoins would break that guess.</details>
+
+Play it with a score on the website: https://codeorange.dev/session-notes/2026-10-20-privacy-track
+
 ## Resources shared
 
 **Reading**

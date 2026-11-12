@@ -61,6 +61,28 @@
 
 3. **Be productively paranoid, but practical.** Answer four questions: **Who** am I protecting against? **How likely** is it? **How bad** is failure? **How much effort** will I spend? Self-custody wallets, your own node behind Tor and ecash all raise the bar.
 
+## Test yourself
+
+1. **What leaked when the carpet seller was paid on-chain?**
+   - a) Nothing, Bitcoin is anonymous
+   - b) The seller's private key
+   - c) That the seller's wallet held a full bitcoin
+   <details><summary>Answer</summary>c) That the seller's wallet held a full bitcoin. The buyer looked the payment up on a block explorer and saw the seller's whole balance.</details>
+
+2. **Custodial Lightning wallets are fairly private from...**
+   - a) Other people, but not from the custodian itself
+   - b) Everyone, including the custodian
+   - c) Nobody at all
+   <details><summary>Answer</summary>a) Other people, but not from the custodian itself. The company running the wallet can see, and may have to hand over, node IDs, emails and maybe IP addresses.</details>
+
+3. **Which of these is NOT one of the four threat-model questions?**
+   - a) Who am I protecting against?
+   - b) Which wallet is the most popular?
+   - c) How bad is failure?
+   <details><summary>Answer</summary>b) Which wallet is the most popular?. The four: who, how likely, how bad, and how much effort you'll spend.</details>
+
+Play it with a score on the website: https://codeorange.dev/session-notes/2026-10-14-sovereign-bitcoiner-workshop
+
 ## Resources shared
 
 **Reading**

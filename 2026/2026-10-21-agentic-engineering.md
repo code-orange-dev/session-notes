@@ -55,6 +55,28 @@
 
 </details>
 
+## Test yourself
+
+1. **Best tip from the call for giving an agent context?**
+   - a) Speak instead of typing: two minutes of talking gives far more context
+   - b) Keep prompts under ten words
+   - c) Only ever use the most expensive model
+   <details><summary>Answer</summary>a) Speak instead of typing: two minutes of talking gives far more context. Dictation tools like Superwhisper make it fast, and the agent gets the whole picture.</details>
+
+2. **What did the mempool visualizer start as?**
+   - a) A big React app
+   - b) A single HTML file using the mempool.space API
+   - c) A paid SaaS tool
+   <details><summary>Answer</summary>b) A single HTML file using the mempool.space API. Small and cheap went a long way. Cheap models did most of the work.</details>
+
+3. **What was the main feedback on the self-custody simulator?**
+   - a) Make it 3D
+   - b) Remove the mentor character
+   - c) Make it impossible to miss that seed words go only into the hardware wallet
+   <details><summary>Answer</summary>c) Make it impossible to miss that seed words go only into the hardware wallet. Translations were the other ask, Chinese first.</details>
+
+Play it with a score on the website: https://codeorange.dev/session-notes/2026-10-21-agentic-engineering
+
 ## Resources shared
 
 **Tools**

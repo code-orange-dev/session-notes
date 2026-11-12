@@ -34,6 +34,28 @@
 4. **Not instant privacy.** One PayJoin won't fix coins already linked to you. Use it repeatedly, with other tools.
 5. **Try it:** turn on PayJoin in Cake Wallet, copy the receive link (contains `pj=`), pay it from Bull Bitcoin. On the call only amounts over 10,000 sats went through, and not every attempt worked.
 
+## Test yourself
+
+1. **In the PayJoin from the call, why couldn't chain analysis find the 12,000 sat payment?**
+   - a) The amount was encrypted
+   - b) The receiver added a coin of their own, so no output said 12,000
+   - c) It was sent over Lightning
+   <details><summary>Answer</summary>b) The receiver added a coin of their own, so no output said 12,000. The receiver added a ~10,000 sat coin and got ~22,000 back. Two stories fit the transaction equally well.</details>
+
+2. **Which two guesses does PayJoin break?**
+   - a) All inputs belong to one person, and the big leftover is change
+   - b) The sender pays the fee, and outputs are round numbers
+   - c) Old coins are spent first, and addresses are reused
+   <details><summary>Answer</summary>a) All inputs belong to one person, and the big leftover is change. Chain analysis leans on both. Once the receiver adds a coin, both guesses can be wrong.</details>
+
+3. **How does the protocol stop a sender from snooping on all the receiver's coins?**
+   - a) The receiver asks for ID
+   - b) Payments are capped at 10,000 sats
+   - c) The sender first sends a fully signed payment, which the receiver can just broadcast
+   <details><summary>Answer</summary>c) The sender first sends a fully signed payment, which the receiver can just broadcast. If the sender misbehaves, the receiver broadcasts that payment and still gets paid.</details>
+
+Play it with a score on the website: https://codeorange.dev/session-notes/2026-10-06-privacy-track
+
 ## Resources shared
 
 **Reading**

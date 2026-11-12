@@ -64,6 +64,28 @@
 
 4. **LLMs: useful, but you still own the review.** The room was split. Razor's rule: a contributor should put in at least as much effort as the person reviewing their work.
 
+## Test yourself
+
+1. **What does Nostr give you that X doesn't?**
+   - a) Free blue checkmarks
+   - b) You hold the key, so nobody can take your identity
+   - c) One company keeps your posts safe
+   <details><summary>Answer</summary>b) You hold the key, so nobody can take your identity. Relays can drop your posts, but your key, followers and reputation move with you to any app.</details>
+
+2. **Which of these counts as a real code review?**
+   - a) Only an approval from a maintainer
+   - b) Starring the repo on GitHub
+   - c) Running the tests and saying they pass on your machine
+   <details><summary>Answer</summary>c) Running the tests and saying they pass on your machine. You don't need to be a maintainer. Testing and asking good questions are valid reviews.</details>
+
+3. **You want to make a bigger change to a project. What do you do first?**
+   - a) Open an issue to discuss it
+   - b) Open a huge pull request straight away
+   - c) Email the maintainer your code
+   <details><summary>Answer</summary>a) Open an issue to discuss it. For a small fix, just open the PR. For a bigger change, talk about it in an issue first.</details>
+
+Play it with a score on the website: https://codeorange.dev/session-notes/2026-10-08-code-review-club
+
 ## Resources shared
 
 **Reading**
