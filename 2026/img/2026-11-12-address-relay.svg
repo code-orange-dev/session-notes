@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="Inter,Arial,sans-serif">
+<rect width="900" height="340" fill="#0A0A0A"/>
+<text x="450" y="34" text-anchor="middle" font-size="18" font-weight="700" fill="#fff">Address relay: D's "here I am" travels D &#8594; C &#8594; B &#8594; A</text>
+<g stroke="#F7931A" stroke-width="3" stroke-opacity=".7"><line x1="150" y1="110" x2="350" y2="110"/><line x1="350" y1="110" x2="550" y2="110"/><line x1="550" y1="110" x2="750" y2="110"/></g>
+<path d="M150 140 C 300 200, 600 200, 750 140" fill="none" stroke="#fff" stroke-opacity=".45" stroke-width="2" stroke-dasharray="6 6"/>
+<text x="450" y="200" text-anchor="middle" font-size="13" fill="#B8B8B8">now A can connect to D directly</text>
+<g font-size="20" font-weight="800" text-anchor="middle">
+<circle cx="150" cy="110" r="28" fill="#F7931A"/><text x="150" y="117" fill="#0A0A0A">A</text>
+<circle cx="350" cy="110" r="28" fill="#262626"/><text x="350" y="117" fill="#fff">B</text>
+<circle cx="550" cy="110" r="28" fill="#262626"/><text x="550" y="117" fill="#fff">C</text>
+<circle cx="750" cy="110" r="28" fill="#262626" stroke="#F7931A" stroke-width="3"/><text x="750" y="117" fill="#fff">D</text></g>
+<g font-family="Menlo,monospace" font-size="12" font-weight="700"><rect x="580" y="62" width="70" height="22" rx="6" fill="#2c8a4a"/><text x="615" y="78" text-anchor="middle" fill="#fff">ADDR: D</text><rect x="380" y="62" width="70" height="22" rx="6" fill="#2c8a4a"/><text x="415" y="78" text-anchor="middle" fill="#fff">ADDR: D</text><rect x="180" y="62" width="70" height="22" rx="6" fill="#2c8a4a"/><text x="215" y="78" text-anchor="middle" fill="#fff">ADDR: D</text></g>
+<text x="60" y="244" font-size="14" font-weight="700" fill="#8A8A8A">A's addrman (the phone book) keeps two tables:</text>
+<rect x="60" y="256" width="370" height="64" rx="12" fill="#161616" stroke="#F7931A" stroke-opacity=".6"/><text x="80" y="282" font-size="15" font-weight="800" fill="#fff">Tried</text><text x="80" y="304" font-size="13" fill="#B8B8B8">answered when we connected: B, C, D</text>
+<rect x="470" y="256" width="370" height="64" rx="12" fill="#161616" stroke="#fff" stroke-opacity=".25" stroke-dasharray="5 5"/><text x="490" y="282" font-size="15" font-weight="800" fill="#fff">New</text><text x="490" y="304" font-size="13" fill="#B8B8B8">no answer yet, retry later (spam piles up here)</text>
+</svg>
