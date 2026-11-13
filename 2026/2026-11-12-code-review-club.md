@@ -6,9 +6,9 @@
 **Series:** Code Review Club (every 2nd Thursday of the month)
 **Read on the website (with 3 mini-games):** https://codeorange.dev/session-notes/2026-11-12-code-review-club
 
-![Code Review Club: mesh nets, addr spam and Floresta](img/2026-11-12-code-review-club.jpg)
+[![Watch the recording: Code Review Club, mesh nets, addr spam and Floresta](img/2026-11-12-code-review-club.jpg)](https://www.youtube.com/watch?v=PplOYduOj3I)
 
-▶ **Recording coming soon.**
+▶ **[Watch the full recording on YouTube](https://www.youtube.com/watch?v=PplOYduOj3I)** (about 85 min)
 
 > **TL;DR**
 > - FIPS replaces IP addresses and DNS with keys you make yourself: every node's Nostr npub is its address, and messages find their way through a mesh over Wi-Fi, Bluetooth, radio or the internet.
@@ -19,35 +19,35 @@
 <details>
 <summary>Chapters (times taken from the transcript, may be slightly off)</summary>
 
-- 00:00 FIPS: what it is and why it exists
-- 02:25 What is a mesh network? Centralized vs decentralized vs distributed
-- 10:06 Every node gets an identity: Nostr npubs
-- 11:52 Why FIPS: getting around IP and DNS
-- 12:39 One mesh, many links: Wi-Fi, Bluetooth, radio, LoRa
-- 18:02 Does FIPS still use IP? The OSI model
-- 24:25 Bitcoin scales in layers, like the internet
-- 27:24 Why VPNs and Tor are only workarounds
-- 30:03 IP addresses and domains need permission
-- 31:41 FIPS wrap-up and homework for next time
-- 34:19 Why we do these calls: more reviewers, more contributors
-- 35:32 Razor: a peer-observer case study
-- 36:39 Inside a node's address table (addrman)
-- 39:13 bnoc post: Address relay under stress
-- 40:12 ADDR and ADDRv2 messages explained
-- 44:15 Address relay for beginners (whiteboard)
-- 50:55 addrman is a phone book
-- 53:28 How this connects to peer-observer
-- 57:05 Addresses per ADDR message: before vs during the spam
-- 62:24 The attack: bogus addresses
-- 64:16 Why not just test every address first?
-- 67:11 The new and tried tables
-- 69:18 The puzzle: fewer new addresses during the spam
-- 70:38 stonepillar: hello, Floresta and the fellowship
-- 76:33 The Floresta repo: Rust, Utreexo, its own addrman
-- 77:56 Fix: anchors.json now survives a node shutdown
-- 79:10 Implementing Bitcoin Core's RPCs (good first issues)
-- 80:15 RPC authentication: why it is harder than it looks
-- 83:03 Wrap-up: Decoding Bitcoin and Privacy Track next week
+- [00:00](https://www.youtube.com/watch?v=PplOYduOj3I&t=0s) FIPS: what it is and why it exists
+- [02:25](https://www.youtube.com/watch?v=PplOYduOj3I&t=145s) What is a mesh network? Centralized vs decentralized vs distributed
+- [10:06](https://www.youtube.com/watch?v=PplOYduOj3I&t=606s) Every node gets an identity: Nostr npubs
+- [11:52](https://www.youtube.com/watch?v=PplOYduOj3I&t=712s) Why FIPS: getting around IP and DNS
+- [12:39](https://www.youtube.com/watch?v=PplOYduOj3I&t=759s) One mesh, many links: Wi-Fi, Bluetooth, radio, LoRa
+- [18:02](https://www.youtube.com/watch?v=PplOYduOj3I&t=1082s) Does FIPS still use IP? The OSI model
+- [24:25](https://www.youtube.com/watch?v=PplOYduOj3I&t=1465s) Bitcoin scales in layers, like the internet
+- [27:24](https://www.youtube.com/watch?v=PplOYduOj3I&t=1644s) Why VPNs and Tor are only workarounds
+- [30:03](https://www.youtube.com/watch?v=PplOYduOj3I&t=1803s) IP addresses and domains need permission
+- [31:41](https://www.youtube.com/watch?v=PplOYduOj3I&t=1901s) FIPS wrap-up and homework for next time
+- [34:19](https://www.youtube.com/watch?v=PplOYduOj3I&t=2059s) Why we do these calls: more reviewers, more contributors
+- [35:32](https://www.youtube.com/watch?v=PplOYduOj3I&t=2132s) Razor: a peer-observer case study
+- [36:39](https://www.youtube.com/watch?v=PplOYduOj3I&t=2199s) Inside a node's address table (addrman)
+- [39:13](https://www.youtube.com/watch?v=PplOYduOj3I&t=2353s) bnoc post: Address relay under stress
+- [40:12](https://www.youtube.com/watch?v=PplOYduOj3I&t=2412s) ADDR and ADDRv2 messages explained
+- [44:15](https://www.youtube.com/watch?v=PplOYduOj3I&t=2655s) Address relay for beginners (whiteboard)
+- [50:55](https://www.youtube.com/watch?v=PplOYduOj3I&t=3055s) addrman is a phone book
+- [53:28](https://www.youtube.com/watch?v=PplOYduOj3I&t=3208s) How this connects to peer-observer
+- [57:05](https://www.youtube.com/watch?v=PplOYduOj3I&t=3425s) Addresses per ADDR message: before vs during the spam
+- [62:24](https://www.youtube.com/watch?v=PplOYduOj3I&t=3744s) The attack: bogus addresses
+- [64:16](https://www.youtube.com/watch?v=PplOYduOj3I&t=3856s) Why not just test every address first?
+- [67:11](https://www.youtube.com/watch?v=PplOYduOj3I&t=4031s) The new and tried tables
+- [69:18](https://www.youtube.com/watch?v=PplOYduOj3I&t=4158s) The puzzle: fewer new addresses during the spam
+- [70:38](https://www.youtube.com/watch?v=PplOYduOj3I&t=4238s) stonepillar: hello, Floresta and the fellowship
+- [76:33](https://www.youtube.com/watch?v=PplOYduOj3I&t=4593s) The Floresta repo: Rust, Utreexo, its own addrman
+- [77:56](https://www.youtube.com/watch?v=PplOYduOj3I&t=4676s) Fix: anchors.json now survives a node shutdown
+- [79:10](https://www.youtube.com/watch?v=PplOYduOj3I&t=4750s) Implementing Bitcoin Core's RPCs (good first issues)
+- [80:15](https://www.youtube.com/watch?v=PplOYduOj3I&t=4815s) RPC authentication: why it is harder than it looks
+- [83:03](https://www.youtube.com/watch?v=PplOYduOj3I&t=4983s) Wrap-up: Decoding Bitcoin and Privacy Track next week
 
 </details>
 
