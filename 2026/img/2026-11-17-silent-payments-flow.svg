@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" font-family="Inter,Arial,sans-serif">
+<rect width="900" height="300" rx="18" fill="#0f0f0f"/>
+<text x="30" y="40" fill="#F7931A" font-size="13" font-weight="700" letter-spacing="2">HOW A SILENT PAYMENT WORKS</text>
+<g font-size="14" fill="#bbb">
+<rect x="30" y="62" width="250" height="150" rx="12" fill="#1a1a1a" stroke="#333"/>
+<text x="48" y="92" fill="#fff" font-size="17" font-weight="700">Sender</text>
+<text x="48" y="120">Spends a coin as usual.</text><text x="48" y="142">The input already reveals</text><text x="48" y="164">public key B (secret b).</text><text x="48" y="186">Reads A from the sp1 address.</text>
+<rect x="325" y="62" width="250" height="150" rx="12" fill="#1f160a" stroke="#F7931A"/>
+<text x="343" y="92" fill="#fff" font-size="17" font-weight="700">Shared secret</text>
+<text x="343" y="120">Sender: b·A</text><text x="343" y="142">Receiver: a·B</text><text x="343" y="164">Same number (Diffie-Hellman).</text><text x="343" y="186">Nobody else can compute it.</text>
+<rect x="620" y="62" width="250" height="150" rx="12" fill="#1a1a1a" stroke="#333"/>
+<text x="638" y="92" fill="#fff" font-size="17" font-weight="700">Fresh Taproot output</text>
+<text x="638" y="120">t = hash(secret)</text><text x="638" y="142">output key = A + t·G</text><text x="638" y="164">Looks like any Taproot</text><text x="638" y="186">payment. Spend with a + t.</text>
+</g>
+<g fill="#F7931A"><path d="M287 137h28l-8-7m8 7-8 7" stroke="#F7931A" stroke-width="3" fill="none"/><path d="M582 137h28l-8-7m8 7-8 7" stroke="#F7931A" stroke-width="3" fill="none"/></g>
+<text x="30" y="255" fill="#ddd" font-size="15">The catch: the receiver must scan. For every transaction, take the input keys, compute a·B, and check the outputs.</text>
+<text x="30" y="280" fill="#888" font-size="13">Code Orange Privacy Track · 17 Nov 2026 · CC0</text>
+</svg>
