@@ -6,9 +6,9 @@
 **Series:** Decoding Bitcoin, a free 10-week study cohort (every Monday until 18 January 2027)
 **Read on the website (with 4 mini-games and 6 badges):** https://codeorange.dev/session-notes/2026-11-16-decoding-bitcoin-week-1
 
-![Decoding Bitcoin week 1: how the cohort works](img/2026-11-16-decoding-bitcoin-week-1.jpg)
+[![Watch the recording: Decoding Bitcoin week 1](img/2026-11-16-decoding-bitcoin-week-1.jpg)](https://www.youtube.com/watch?v=VIfltkAznTA)
 
-▶ **Recording:** coming soon (about 50 min).
+▶ **[Watch the full recording on YouTube](https://www.youtube.com/watch?v=VIfltkAznTA)** (about 50 min)
 
 > **TL;DR**
 > - Decoding Bitcoin is 10 Mondays, 90 minutes each, cameras off for privacy. Transactions first, then script and multisig, your own project, Taproot, and a graduation.
@@ -17,28 +17,28 @@
 > - Decoding Bitcoin by The Bitcoin Dev Project is the source of truth for lessons and exercises. Your dashboard is a personal link with no login, so save it.
 
 <details>
-<summary>What we covered, minute by minute (times taken from the transcript, may be slightly off)</summary>
+<summary>Chapters (times taken from the transcript, may be slightly off)</summary>
 
-- 00:00 Welcome, cameras off, the 10-week plan
-- 01:30 Exercises, weekly check-ins and the certificate
-- 02:30 Attendance, study buddies and getting help
-- 04:00 Q&A: can you join without coming live?
-- 05:29 Tour of the cohort dashboard
-- 08:29 Discussion questions: one each for next Monday
-- 10:29 Screen share: the Decoding Bitcoin quiz
-- 12:29 After Decoding Bitcoin: the BOSS Challenge
-- 13:20 Razor on what BOSS is really like
-- 16:21 Alex on BOSS: hours, workload, dropouts
-- 19:50 Back to the quiz: change one letter, change half the hash
-- 21:50 Where the exercises live and how questions get assigned
-- 26:39 How the weekly discussion works
-- 27:50 Plan: Decoding Bitcoin site for exercises, our dashboard for questions
-- 34:03 How to prepare for next Monday
-- 39:03 Why your dashboard has no login
-- 42:43 The Decoding Bitcoin site is the source of truth
-- 43:43 Remember why you are here
-- 44:43 Homework and wrap-up
-- 48:11 Tomorrow: Privacy Track on Silent Payments
+- [00:00](https://www.youtube.com/watch?v=VIfltkAznTA&t=0s) Welcome, cameras off, the 10-week plan
+- [01:30](https://www.youtube.com/watch?v=VIfltkAznTA&t=90s) Exercises, weekly check-ins and the certificate
+- [02:30](https://www.youtube.com/watch?v=VIfltkAznTA&t=150s) Attendance, study buddies and getting help
+- [04:00](https://www.youtube.com/watch?v=VIfltkAznTA&t=240s) Q&A: can you join without coming live?
+- [05:29](https://www.youtube.com/watch?v=VIfltkAznTA&t=329s) Tour of the cohort dashboard
+- [08:29](https://www.youtube.com/watch?v=VIfltkAznTA&t=509s) Discussion questions: one each for next Monday
+- [10:29](https://www.youtube.com/watch?v=VIfltkAznTA&t=629s) Screen share: the Decoding Bitcoin quiz
+- [12:29](https://www.youtube.com/watch?v=VIfltkAznTA&t=749s) After Decoding Bitcoin: the BOSS Challenge
+- [13:20](https://www.youtube.com/watch?v=VIfltkAznTA&t=800s) Razor on what BOSS is really like
+- [16:21](https://www.youtube.com/watch?v=VIfltkAznTA&t=981s) Alex on BOSS: hours, workload, dropouts
+- [19:50](https://www.youtube.com/watch?v=VIfltkAznTA&t=1190s) Back to the quiz: change one letter, change half the hash
+- [21:50](https://www.youtube.com/watch?v=VIfltkAznTA&t=1310s) Where the exercises live and how questions get assigned
+- [26:39](https://www.youtube.com/watch?v=VIfltkAznTA&t=1599s) How the weekly discussion works
+- [27:50](https://www.youtube.com/watch?v=VIfltkAznTA&t=1670s) Plan: Decoding Bitcoin site for exercises, our dashboard for questions
+- [34:03](https://www.youtube.com/watch?v=VIfltkAznTA&t=2043s) How to prepare for next Monday
+- [39:03](https://www.youtube.com/watch?v=VIfltkAznTA&t=2343s) Why your dashboard has no login
+- [42:43](https://www.youtube.com/watch?v=VIfltkAznTA&t=2563s) The Decoding Bitcoin site is the source of truth
+- [43:43](https://www.youtube.com/watch?v=VIfltkAznTA&t=2623s) Remember why you are here
+- [44:43](https://www.youtube.com/watch?v=VIfltkAznTA&t=2683s) Homework and wrap-up
+- [48:11](https://www.youtube.com/watch?v=VIfltkAznTA&t=2891s) Tomorrow: Privacy Track on Silent Payments
 
 </details>
 
