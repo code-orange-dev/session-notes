@@ -10,6 +10,7 @@ Free to read, share and reuse (CC0).
 
 | Date | Session | Topic |
 |---|---|---|
+| 16 Nov | [Decoding Bitcoin, week 1](2026/2026-11-16-decoding-bitcoin-week-1.md) | How the cohort works: roadmap, certificate, dashboard, BOSS |
 | 12 Nov | [Code Review Club](2026/2026-11-12-code-review-club.md) | Mesh networks (FIPS), address spam and Floresta |
 | 11 Nov | [Sovereign Bitcoiner Workshop](2026/2026-11-11-sovereign-bitcoiner-workshop.md) | White Noise: private chats on Nostr |
 | 28 Oct | [Bitcoin Reading Club](2026/2026-10-28-bitcoin-reading-club.md) | The whitepaper abstract, line by line |
