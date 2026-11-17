@@ -5,9 +5,9 @@
 **Hosts:** Razor (deep dive and quiz) and keypleb, with guest speaker Sosthène, developer of the Dana wallet
 **Read on the website (with 4 mini-games and 6 badges):** https://codeorange.dev/session-notes/2026-11-17-privacy-track-silent-payments
 
-![Silent Payments: one address, no reuse](img/2026-11-17-privacy-track-silent-payments.jpg)
+[![Watch the recording: Silent Payments](img/2026-11-17-privacy-track-silent-payments.jpg)](https://www.youtube.com/watch?v=0zfOoj58_xA)
 
-Recording coming soon.
+▶ **[Watch the full recording on YouTube](https://www.youtube.com/watch?v=0zfOoj58_xA)** (about 85 min)
 
 > **TL;DR**
 > - A silent payment address starts with `sp1` and can be posted anywhere. Every payment to it lands on a different, normal-looking Taproot output, so nobody can list your payments.
@@ -18,19 +18,19 @@ Recording coming soon.
 <details>
 <summary>Chapters (times taken from the transcript, may be slightly off)</summary>
 
-- 00:00 Welcome and the plan for today
-- 04:47 Live demo: Cake Wallet to Shroud, then mempool.space
-- 09:00 Why some wallets see a payment sooner: scanning
-- 11:47 Address reuse, and what silent payments don't fix
-- 20:33 Spot the silent payment: Taproot outputs and round amounts
-- 30:38 Backends: Electrum servers vs BlindBit
-- 41:52 Gap limits, with a real wallet recovery story
-- 45:57 Razor's deep dive: history and the interactivity scale
-- 52:16 Sender vs receiver: why scanning is the hard part
-- 54:12 Building silent payments from scratch
-- 1:10:06 Quiz
-- 1:19:12 How to contribute: Dana, BlindBit, Frigate, Shroud
-- 1:23:00 Wrap-up and what's next
+- [00:00](https://www.youtube.com/watch?v=0zfOoj58_xA&t=0s) Welcome and the plan for today
+- [04:47](https://www.youtube.com/watch?v=0zfOoj58_xA&t=287s) Live demo: Cake Wallet to Shroud, then mempool.space
+- [09:00](https://www.youtube.com/watch?v=0zfOoj58_xA&t=540s) Why some wallets see a payment sooner: scanning
+- [11:47](https://www.youtube.com/watch?v=0zfOoj58_xA&t=707s) Address reuse, and what silent payments don't fix
+- [20:33](https://www.youtube.com/watch?v=0zfOoj58_xA&t=1233s) Spot the silent payment: Taproot outputs and round amounts
+- [30:38](https://www.youtube.com/watch?v=0zfOoj58_xA&t=1838s) Backends: Electrum servers vs BlindBit
+- [41:52](https://www.youtube.com/watch?v=0zfOoj58_xA&t=2512s) Gap limits, with a real wallet recovery story
+- [45:57](https://www.youtube.com/watch?v=0zfOoj58_xA&t=2757s) Razor's deep dive: history and the interactivity scale
+- [52:16](https://www.youtube.com/watch?v=0zfOoj58_xA&t=3136s) Sender vs receiver: why scanning is the hard part
+- [54:12](https://www.youtube.com/watch?v=0zfOoj58_xA&t=3252s) Building silent payments from scratch
+- [1:10:06](https://www.youtube.com/watch?v=0zfOoj58_xA&t=4206s) Quiz
+- [1:19:12](https://www.youtube.com/watch?v=0zfOoj58_xA&t=4752s) How to contribute: Dana, BlindBit, Frigate, Shroud
+- [1:23:00](https://www.youtube.com/watch?v=0zfOoj58_xA&t=4980s) Wrap-up and what's next
 
 </details>
 
