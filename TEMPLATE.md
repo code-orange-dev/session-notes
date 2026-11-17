@@ -30,5 +30,7 @@
 **Code Orange**
 - <next session / related program>
 
+<!-- Decoding Bitcoin recaps: keep the "Join the cohort: it's not too late" section with the Register link (https://codeorange.dev/decoding-bitcoin#signup) here. -->
+
 ---
 Notes by Code Orange Dev School. Join us on [Discord](https://codeorange.dev).

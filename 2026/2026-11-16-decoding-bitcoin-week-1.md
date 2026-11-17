@@ -154,5 +154,11 @@ Exercises live on Decoding Bitcoin by The Bitcoin Dev Project: "the Decoding Bit
 - **Privacy Track, Silent Payments:** Tuesday 17 November, 07:00 UTC on Discord. https://codeorange.dev/privacy-track
 - **Decoding Bitcoin week 2, How a transaction lives:** Monday 23 November, 7pm UTC+8 on Discord. Bring your answer to your assigned question.
 
+## Join the cohort: it's not too late
+
+Decoding Bitcoin is free, runs every Monday on Discord, and you can join at any time. Sign up in 30 seconds, catch up with the recaps and come to the next session.
+
+**[Register free →](https://codeorange.dev/decoding-bitcoin#signup)**
+
 ---
 Notes by Code Orange Dev School. Free to share and reuse (CC0). Join us on [Discord](https://codeorange.dev).
