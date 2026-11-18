@@ -10,6 +10,7 @@ Free to read, share and reuse (CC0).
 
 | Date | Session | Topic |
 |---|---|---|
+| 18 Nov | [Agentic Engineering & Vibe Coding Workshop](2026/2026-11-18-agentic-engineering.md) | AI agents that pay in Bitcoin |
 | 17 Nov | [Privacy Track](2026/2026-11-17-privacy-track-silent-payments.md) | Silent Payments: one address, no reuse |
 | 16 Nov | [Decoding Bitcoin, week 1](2026/2026-11-16-decoding-bitcoin-week-1.md) | How the cohort works: roadmap, certificate, dashboard, BOSS |
 | 12 Nov | [Code Review Club](2026/2026-11-12-code-review-club.md) | Mesh networks (FIPS), address spam and Floresta |
