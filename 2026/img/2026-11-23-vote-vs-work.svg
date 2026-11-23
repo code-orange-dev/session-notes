@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" font-family="Inter,Arial,sans-serif">
+<rect width="800" height="300" rx="16" fill="#0A0A0A"/>
+<text x="200" y="40" fill="#F7931A" font-size="13" font-weight="700" text-anchor="middle" letter-spacing="2">B-MONEY: MAJORITY VOTE</text>
+<text x="600" y="40" fill="#F7931A" font-size="13" font-weight="700" text-anchor="middle" letter-spacing="2">BITCOIN: MOST WORK WINS</text>
+<line x1="400" y1="25" x2="400" y2="275" stroke="#333"/>
+<g fill="#2f6b3a"><circle cx="90" cy="90" r="9"/><circle cx="115" cy="90" r="9"/><circle cx="140" cy="90" r="9"/><circle cx="165" cy="90" r="9"/><circle cx="190" cy="90" r="9"/></g>
+<text x="215" y="95" fill="#ccc" font-size="14">25 honest nodes</text>
+<g fill="#c0392b"><circle cx="90" cy="130" r="9"/><circle cx="115" cy="130" r="9"/><circle cx="140" cy="130" r="9"/><circle cx="165" cy="130" r="9"/><circle cx="190" cy="130" r="9"/><circle cx="90" cy="155" r="9"/><circle cx="115" cy="155" r="9"/><circle cx="140" cy="155" r="9"/><circle cx="165" cy="155" r="9"/><circle cx="190" cy="155" r="9"/></g>
+<text x="215" y="148" fill="#ccc" font-size="14">1,000 fake nodes</text>
+<text x="200" y="215" fill="#fff" font-size="18" font-weight="800" text-anchor="middle">Attacker wins</text>
+<text x="200" y="245" fill="#999" font-size="14" text-anchor="middle">Nodes are free to fake</text>
+<rect x="470" y="75" width="260" height="24" rx="6" fill="#F7931A"/><text x="480" y="92" fill="#0A0A0A" font-size="13" font-weight="700">Honest chain: 90% of the work</text>
+<rect x="470" y="120" width="30" height="24" rx="6" fill="#c0392b"/><text x="510" y="137" fill="#ccc" font-size="13">Attacker: 10% (fake nodes add 0)</text>
+<text x="600" y="215" fill="#fff" font-size="18" font-weight="800" text-anchor="middle">Attacker loses</text>
+<text x="600" y="245" fill="#999" font-size="14" text-anchor="middle">Proof of work costs real energy</text>
+</svg>
