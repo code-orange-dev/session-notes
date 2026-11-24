@@ -6,9 +6,9 @@
 **Series:** Decoding Bitcoin, a free 10-week study cohort (every Monday until 18 January 2027)  
 **Read on the website (with 4 mini-games and 6 badges):** https://codeorange.dev/session-notes/2026-11-23-decoding-bitcoin-week-2
 
-![Decoding Bitcoin week 2](img/2026-11-23-decoding-bitcoin-week-2.jpg)
+[![Watch the recording: Decoding Bitcoin week 2](img/2026-11-23-decoding-bitcoin-week-2.jpg)](https://www.youtube.com/watch?v=W9FdrPt1aAY)
 
-Recording: coming soon on YouTube (about 90 min).
+▶ **[Watch the full recording on YouTube](https://www.youtube.com/watch?v=W9FdrPt1aAY)** (about 90 min)
 
 > **TL;DR**
 > - Bitcoin was not the first try at digital cash. DigiCash needed one company, b-money and Bit Gold stayed on paper. Satoshi combined proof of work with "follow the chain with the most work", so fake nodes can't outvote the honest ones.
@@ -17,32 +17,31 @@ Recording: coming soon on YouTube (about 90 min).
 > - Want the deep end? The BOSS Challenge is a recruitment pipeline for Bitcoin developers, and Saving Satoshi is the way in. Decoding Bitcoin stays beginner friendly.
 
 <details>
-<summary>What we covered, minute by minute (times taken from the transcript, may be slightly off)</summary>
+<summary>Chapters (times taken from the transcript, may be slightly off)</summary>
 
-- 00:00 Welcome, Razor as a guest, the plan for 90 minutes
-- 03:12 Intros: why people are here
-- 05:50 Alex on the BOSS Challenge
-- 09:13 Razor: BOSS is a recruitment pipeline, not a course
-- 13:31 Saving Satoshi: the entry test for BOSS
-- 19:58 Our first developer fellow on month one
-- 22:02 The Code Orange pipeline: meetups to fellowship
-- 25:13 Q1: what Bitcoin solved that DigiCash, b-money and Bit Gold could not
-- 32:00 On screen: what each predecessor got right
-- 33:52 Why voting fails: b-money and a thousand fake nodes
-- 37:19 Q2: the Genesis block and 10 BTC to Hal Finney
-- 40:20 The Pizza Day transaction on mempool.space
-- 41:06 Satoshi's last email: "I've moved on to other things"
-- 43:47 Gavin, the block size war and why leadership must stay decentralised
-- 46:06 Q3: hash functions and three properties Bitcoin relies on
-- 51:41 Paint you can't unmix: one-way hashing
-- 53:39 Live demo: the Hash Functions tool
-- 55:13 How likely is a hash collision?
-- 58:05 12 or 24 seed words?
-- 01:01:52 Q4: UTXOs as notes in your wallet
-- 01:06:36 Q5: UTXOs vs accounts, one plus, one minus
-- 01:12:37 Could Bitcoin have worked with accounts?
-- 01:23:16 Q6: don't trust, verify
-- 01:26:10 Homework and wrap-up
+- [00:00](https://www.youtube.com/watch?v=W9FdrPt1aAY&t=0s) Welcome and the plan for tonight
+- [03:12](https://www.youtube.com/watch?v=W9FdrPt1aAY&t=192s) Intros: why people are here
+- [05:50](https://www.youtube.com/watch?v=W9FdrPt1aAY&t=350s) Alex on the BOSS Challenge
+- [09:13](https://www.youtube.com/watch?v=W9FdrPt1aAY&t=553s) Razor: BOSS is a recruitment pipeline, not a course
+- [13:31](https://www.youtube.com/watch?v=W9FdrPt1aAY&t=811s) Saving Satoshi: the entry test for BOSS
+- [19:58](https://www.youtube.com/watch?v=W9FdrPt1aAY&t=1198s) Our first developer fellow on month one
+- [22:02](https://www.youtube.com/watch?v=W9FdrPt1aAY&t=1322s) The Code Orange pipeline: meetups to fellowship
+- [25:13](https://www.youtube.com/watch?v=W9FdrPt1aAY&t=1513s) Q1: what Bitcoin solved that DigiCash, b-money and Bit Gold could not
+- [33:52](https://www.youtube.com/watch?v=W9FdrPt1aAY&t=2032s) Why voting fails: b-money and a thousand fake nodes
+- [37:19](https://www.youtube.com/watch?v=W9FdrPt1aAY&t=2239s) Q2: the Genesis block and 10 BTC to Hal Finney
+- [40:20](https://www.youtube.com/watch?v=W9FdrPt1aAY&t=2420s) The Pizza Day transaction on mempool.space
+- [41:06](https://www.youtube.com/watch?v=W9FdrPt1aAY&t=2466s) Satoshi's last email: "I've moved on to other things"
+- [43:47](https://www.youtube.com/watch?v=W9FdrPt1aAY&t=2627s) Gavin and the block size war
+- [46:06](https://www.youtube.com/watch?v=W9FdrPt1aAY&t=2766s) Q3: hash functions, three properties Bitcoin relies on
+- [51:41](https://www.youtube.com/watch?v=W9FdrPt1aAY&t=3101s) Paint you can't unmix: one-way hashing
+- [53:39](https://www.youtube.com/watch?v=W9FdrPt1aAY&t=3219s) Live demo: the Hash Functions tool
+- [55:13](https://www.youtube.com/watch?v=W9FdrPt1aAY&t=3313s) How likely is a hash collision?
+- [58:05](https://www.youtube.com/watch?v=W9FdrPt1aAY&t=3485s) 12 or 24 seed words?
+- [1:01:52](https://www.youtube.com/watch?v=W9FdrPt1aAY&t=3712s) Q4: UTXOs as notes in your wallet
+- [1:06:36](https://www.youtube.com/watch?v=W9FdrPt1aAY&t=3996s) Q5: UTXOs vs accounts
+- [1:12:37](https://www.youtube.com/watch?v=W9FdrPt1aAY&t=4357s) Could Bitcoin have worked with accounts?
+- [1:23:16](https://www.youtube.com/watch?v=W9FdrPt1aAY&t=4996s) Q6: don't trust, verify
+- [1:26:10](https://www.youtube.com/watch?v=W9FdrPt1aAY&t=5170s) Homework and wrap-up
 
 </details>
 
